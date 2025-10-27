@@ -27,9 +27,10 @@ Lab: Dr. Alexander Perez-Pons
 |VCC | 4 (5V) | 5V power supply
 |SDA | 3 (I2C1_SDA) | I2C Serial Data
 |SCL | 5 (I2C1_SCL)	| I2C Serial Clock
+
 ![WioT-Pinout](https://github.com/user-attachments/assets/94fc2df9-f9b1-472f-a142-94c75ece8baa)
 
 ## Software
 
-### Necessary Libraries
+### Libraries
 [ArduCAM](https://github.com/ArduCAM/Arduino/tree/master/ArduCAM) - holds needed functions for arduino cam module
