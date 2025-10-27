@@ -5,13 +5,14 @@ Lab: Dr. Alexander Perez-Pons
 
 
 ## Hardware
-
+### [Seed's WIO Terminal](https://www.seeedstudio.com/Wio-Terminal-p-4509.html?srsltid=AfmBOoqlsYPOXHmt8u4R_lsj4-dBKGeljw8-h1VOl-1gI1Tt1RUw03Ns)
 ![WIOterminal](https://github.com/IGS1I/CpVision/blob/main/assets/wioterminal.jpg)
-- [WIO Terminal](https://www.seeedstudio.com/Wio-Terminal-p-4509.html?srsltid=AfmBOoqlsYPOXHmt8u4R_lsj4-dBKGeljw8-h1VOl-1gI1Tt1RUw03Ns)
+
+
+### [ArduCAM Mini 2MP Plus](https://www.arducam.com/arducam-2mp-spi-camera-b0067-arduino.html)
+- useful guide for testing camera (though no display on WIO terminal): [Iot for Beginners](https://github.com/microsoft/IoT-For-Beginners/blob/main/4-manufacturing/lessons/2-check-fruit-from-device/wio-terminal-camera.md)
 
 ![ArduCAM](https://github.com/IGS1I/CpVision/blob/main/assets/ArduCAM.jpg)
-- [ArduCAM Mini 2MP Plus](https://www.arducam.com/arducam-2mp-spi-camera-b0067-arduino.html)
-    - useful guide for testing camera (though no display on WIO terminal): [Iot for Beginners](https://github.com/microsoft/IoT-For-Beginners/blob/main/4-manufacturing/lessons/2-check-fruit-from-device/wio-terminal-camera.md)
 
 
 ### Connections:
